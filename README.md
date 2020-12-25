@@ -1,6 +1,5 @@
 # Calorie Tracker
 
-Features:
 
 A fully functional Calorie Tracker web application designed using the Django Framework, Python and PostgreSQL.
 
